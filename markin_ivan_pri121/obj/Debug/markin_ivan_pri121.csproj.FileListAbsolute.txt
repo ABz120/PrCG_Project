@@ -1,0 +1,17 @@
+C:\Unic\8\PKG\CP\markin_ivan_pri121\markin_ivan_pri121\bin\Debug\markin_ivan_pri121.exe.config
+C:\Unic\8\PKG\CP\markin_ivan_pri121\markin_ivan_pri121\bin\Debug\markin_ivan_pri121.exe
+C:\Unic\8\PKG\CP\markin_ivan_pri121\markin_ivan_pri121\bin\Debug\markin_ivan_pri121.pdb
+C:\Unic\8\PKG\CP\markin_ivan_pri121\markin_ivan_pri121\bin\Debug\Tao.FreeGlut.dll
+C:\Unic\8\PKG\CP\markin_ivan_pri121\markin_ivan_pri121\bin\Debug\Tao.OpenGl.dll
+C:\Unic\8\PKG\CP\markin_ivan_pri121\markin_ivan_pri121\bin\Debug\Tao.Platform.Windows.dll
+C:\Unic\8\PKG\CP\markin_ivan_pri121\markin_ivan_pri121\bin\Debug\Tao.FreeGlut.xml
+C:\Unic\8\PKG\CP\markin_ivan_pri121\markin_ivan_pri121\bin\Debug\Tao.OpenGl.xml
+C:\Unic\8\PKG\CP\markin_ivan_pri121\markin_ivan_pri121\bin\Debug\Tao.Platform.Windows.xml
+C:\Unic\8\PKG\CP\markin_ivan_pri121\markin_ivan_pri121\obj\Debug\markin_ivan_pri121.csproj.AssemblyReference.cache
+C:\Unic\8\PKG\CP\markin_ivan_pri121\markin_ivan_pri121\obj\Debug\markin_ivan_pri121.Form1.resources
+C:\Unic\8\PKG\CP\markin_ivan_pri121\markin_ivan_pri121\obj\Debug\markin_ivan_pri121.Properties.Resources.resources
+C:\Unic\8\PKG\CP\markin_ivan_pri121\markin_ivan_pri121\obj\Debug\markin_ivan_pri121.csproj.GenerateResource.cache
+C:\Unic\8\PKG\CP\markin_ivan_pri121\markin_ivan_pri121\obj\Debug\markin_ivan_pri121.csproj.CoreCompileInputs.cache
+C:\Unic\8\PKG\CP\markin_ivan_pri121\markin_ivan_pri121\obj\Debug\markin_i.2EC37DE2.Up2Date
+C:\Unic\8\PKG\CP\markin_ivan_pri121\markin_ivan_pri121\obj\Debug\markin_ivan_pri121.exe
+C:\Unic\8\PKG\CP\markin_ivan_pri121\markin_ivan_pri121\obj\Debug\markin_ivan_pri121.pdb
